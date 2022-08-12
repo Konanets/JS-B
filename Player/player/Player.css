@@ -1,0 +1,14 @@
+.footer{
+    height: 15vh;
+    min-height: 150px;
+    background: #E6E8F5;
+}
+
+.buttons{
+    height: 15vh;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}

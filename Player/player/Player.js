@@ -1,0 +1,1 @@
+let Footer=document.getElementById()

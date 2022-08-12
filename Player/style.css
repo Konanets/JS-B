@@ -1,0 +1,21 @@
+@import url('player/Player.css');
+@import url('Main/Main.css');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+.header{
+ height: 8vh;
+ min-height: 50px;
+ border-bottom: 1px solid gray;
+ background: linear-gradient(to bottom, #a3c5de, #489ce7);
+ font-size: 35px;
+ display: flex;
+ align-items: center;
+}
+
+.header-logo-name{
+ font-family: 'DotGothic16', sans-serif;
+ margin-left: 15px;
+ font-size: 35px;
+ font-weight: bold;
+ color: #0f2027;
+}
